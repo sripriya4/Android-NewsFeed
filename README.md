@@ -1,0 +1,2 @@
+# Android-NewsFeed
+Using our project “News Feed” users can get access to both latest and oldest news of eight different genres i.e., World, Science, Sport, Environment, Society, Fashion, Business and Culture. The user can also customize the colour of the feed, adjust the font size and specify the number of items of the news feed. All these features give user friendly experience to users. This helps with the users gaining their knowledge regarding what is happening in different fields and can stay updated with the current news. 
